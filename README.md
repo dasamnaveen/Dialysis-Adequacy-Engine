@@ -55,7 +55,3 @@ pip install numpy
 
 ## 📜 License
 This project is for educational and clinical decision-support demonstration purposes. Always consult a certified nephrologist for actual medical prescriptions.
-
----
-
-### Would you like me to add a "How to Contribute" section or instructions on how to unit test the math functions?
