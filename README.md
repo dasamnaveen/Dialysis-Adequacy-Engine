@@ -1,9 +1,7 @@
 # Dialysis-Adequacy-Engine
-A high-performance clinical engine for monitoring dialysis treatment adequacy. Automates URR and Kt/V (Daugirdas II) calculations across longitudinal patient records to identify sub-optimal sessions and prevent clinical complications through automated trend alerts.
+A high-performance clinical engine for monitoring dialysis treatment adequacy. Automates **Urea Reduction Ratio (URR)** and **Kt/V** (Daugirdas II) calculations across longitudinal patient records to identify sub-optimal sessions and prevent clinical complications through automated trend alerts.
 
 ## Dialysis Adequacy Monitor (NumPy-Powered)
-
-A high-performance Python tool for nephrologists and clinical staff to calculate **Urea Reduction Ratio (URR)** and **Kt/V** (Daugirdas II formula) across patient treatment histories. 
 
 This project demonstrates how to handle longitudinal medical data using **NumPy Structured Arrays** and **Vectorized Operations** for maximum speed and memory efficiency—without requiring the Pandas library.
 
